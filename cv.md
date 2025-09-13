@@ -4,6 +4,7 @@
 * **E-mail:** rillovarturm@gmail.com
 
 ### About me
+I like programming :)
 
 ### Skills
 CSS, HTML, Git 
